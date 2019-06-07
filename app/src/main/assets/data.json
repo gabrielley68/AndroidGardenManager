@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "Beefstak Tomato",
+      "description": "The largest tomatoes\nPerfect for summer\nHard to grow\nOnly 6€",
+      "image": "tomato.jpg",
+      "tasks": [
+        {
+          "id": 1,
+          "description": "Give 1L of water"
+        },
+        {
+          "id": 2,
+          "description": "Give 20mg of insecticide"
+        },
+        {
+          "id": 3,
+          "description": "Share with your friends"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "product": "Carrot",
+      "description": "Classic carrots\nFrom spring to autumn\nResistant against diseases\nOnly 4€\n",
+      "image": "carots.jpg",
+      "tasks": [
+        {
+          "id": 4,
+          "description": "Give 1L of water"
+        },
+        {
+          "id": 5,
+          "description": "Give 20mg of insecticide"
+        },
+        {
+          "id": 6,
+          "description": "Share with your friends"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "product": "Lettuce",
+      "description": "Good old salad\nFor the whole year\nPerfect for beginners\nOnly 2€ !!",
+      "image": "salad.jpg",
+      "tasks": [
+        {
+          "id": 7,
+          "description": "Give 1L of water"
+        },
+        {
+          "id": 8,
+          "description": "Give 20mg of insecticide"
+        },
+        {
+          "id": 9,
+          "description": "Share with your friends"
+        }
+      ]
+    }
+  ]
+}
